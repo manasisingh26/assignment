@@ -1,0 +1,318 @@
+[
+    {
+      "Emails": "Notio Hive + Musemind",
+      "PublishDate": "2023-09-10",
+      "Sent": 10000,
+      "ClickThroughRate": "12%",
+      "DeliveredRate": "98%",
+      "UnsubscribedRate": "0.5%",
+      "SpamReportRate": "0.2%"
+    },
+    {
+      "Emails": "Engineering, Architecture & Design",
+      "PublishDate": "2023-09-09",
+      "Sent": 9500,
+      "ClickThroughRate": "14%",
+      "DeliveredRate": "97%",
+      "UnsubscribedRate": "0.4%",
+      "SpamReportRate": "0.3%"
+    },
+    {
+      "Emails": "Financial Services",
+      "PublishDate": "2023-09-08",
+      "Sent": 9800,
+      "ClickThroughRate": "11%",
+      "DeliveredRate": "99%",
+      "UnsubscribedRate": "0.6%",
+      "SpamReportRate": "0.1%"
+    },
+    {
+      "Emails": "Advertising & Marketing Agencies",
+      "PublishDate": "2023-09-07",
+      "Sent": 10200,
+      "ClickThroughRate": "15%",
+      "DeliveredRate": "96%",
+      "UnsubscribedRate": "0.3%",
+      "SpamReportRate": "0.4%"
+    },
+    {
+      "Emails": "HealthCare Services",
+      "PublishDate": "2023-09-06",
+      "Sent": 9800,
+      "ClickThroughRate": "13%",
+      "DeliveredRate": "98%",
+      "UnsubscribedRate": "0.4%",
+      "SpamReportRate": "0.2%"
+    },
+    {
+        "Emails": "IT/ Tech/ Software Services",
+        "PublishDate": "2023-09-06",
+        "Sent": 9800,
+        "ClickThroughRate": "13%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Technology Trends",
+        "PublishDate": "2023-09-05",
+        "Sent": 9800,
+        "ClickThroughRate": "13%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Consumer Electronics",
+        "PublishDate": "2023-09-04",
+        "Sent": 9700,
+        "ClickThroughRate": "16%",
+        "DeliveredRate": "95%",
+        "UnsubscribedRate": "0.2%",
+        "SpamReportRate": "0.5%"
+      },
+      {
+        "Emails": "Automotive Industry",
+        "PublishDate": "2023-09-03",
+        "Sent": 9900,
+        "ClickThroughRate": "12%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.4%"
+      },
+      {
+        "Emails": "Travel & Tourism",
+        "PublishDate": "2023-09-02",
+        "Sent": 10500,
+        "ClickThroughRate": "14%",
+        "DeliveredRate": "96%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.3%"
+      },
+      {
+        "Emails": "Education Services",
+        "PublishDate": "2023-09-01",
+        "Sent": 9600,
+        "ClickThroughRate": "15%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Retail & E-commerce",
+        "PublishDate": "2023-08-31",
+        "Sent": 10000,
+        "ClickThroughRate": "11%",
+        "DeliveredRate": "99%",
+        "UnsubscribedRate": "0.5%",
+        "SpamReportRate": "0.1%"
+      },
+      {
+        "Emails": "Telecommunications",
+        "PublishDate": "2023-08-30",
+        "Sent": 9700,
+        "ClickThroughRate": "13%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.4%"
+      },
+      {
+        "Emails": "Food & Beverage",
+        "PublishDate": "2023-08-29",
+        "Sent": 10200,
+        "ClickThroughRate": "14%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Fashion & Apparel",
+        "PublishDate": "2023-08-28",
+        "Sent": 9800,
+        "ClickThroughRate": "15%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.3%"
+      },
+      {
+        "Emails": "Home & Garden",
+        "PublishDate": "2023-08-27",
+        "Sent": 9900,
+        "ClickThroughRate": "12%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Entertainment & Media",
+        "PublishDate": "2023-08-26",
+        "Sent": 9800,
+        "ClickThroughRate": "14%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.5%",
+        "SpamReportRate": "0.1%"
+      },
+      {
+        "Emails": "Sports & Fitness",
+        "PublishDate": "2023-08-25",
+        "Sent": 9700,
+        "ClickThroughRate": "13%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Art & Culture",
+        "PublishDate": "2023-08-24",
+        "Sent": 9600,
+        "ClickThroughRate": "16%",
+        "DeliveredRate": "96%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.4%"
+      },
+      {
+        "Emails": "Travel & Tourism",
+        "PublishDate": "2023-08-23",
+        "Sent": 9800,
+        "ClickThroughRate": "15%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Education Services",
+        "PublishDate": "2023-08-22",
+        "Sent": 10000,
+        "ClickThroughRate": "11%",
+        "DeliveredRate": "99%",
+        "UnsubscribedRate": "0.5%",
+        "SpamReportRate": "0.1%"
+      },
+      {
+        "Emails": "Retail & E-commerce",
+        "PublishDate": "2023-08-21",
+        "Sent": 9700,
+        "ClickThroughRate": "13%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.4%"
+      },
+      {
+        "Emails": "Telecommunications",
+        "PublishDate": "2023-08-20",
+        "Sent": 10200,
+        "ClickThroughRate": "14%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Food & Beverage",
+        "PublishDate": "2023-08-19",
+        "Sent": 9800,
+        "ClickThroughRate": "15%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.3%"
+      },
+      {
+        "Emails": "Fashion & Apparel",
+        "PublishDate": "2023-08-18",
+        "Sent": 9900,
+        "ClickThroughRate": "12%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Home & Garden",
+        "PublishDate": "2023-08-17",
+        "Sent": 9800,
+        "ClickThroughRate": "14%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.5%",
+        "SpamReportRate": "0.1%"
+      },
+      {
+        "Emails": "Entertainment & Media",
+        "PublishDate": "2023-08-16",
+        "Sent": 9700,
+        "ClickThroughRate": "13%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Sports & Fitness",
+        "PublishDate": "2023-08-15",
+        "Sent": 9600,
+        "ClickThroughRate": "16%",
+        "DeliveredRate": "96%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.4%"
+      },
+      {
+        "Emails": "Art & Culture",
+        "PublishDate": "2023-08-14",
+        "Sent": 9800,
+        "ClickThroughRate": "15%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Travel & Tourism",
+        "PublishDate": "2023-08-13",
+        "Sent": 10000,
+        "ClickThroughRate": "11%",
+        "DeliveredRate": "99%",
+        "UnsubscribedRate": "0.5%",
+        "SpamReportRate": "0.1%"
+      },
+      {
+        "Emails": "Retail & E-commerce",
+        "PublishDate": "2023-08-12",
+        "Sent": 9700,
+        "ClickThroughRate": "13%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.4%"
+      },
+      {
+        "Emails": "Telecommunications",
+        "PublishDate": "2023-08-11",
+        "Sent": 10200,
+        "ClickThroughRate": "14%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.3%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Food & Beverage",
+        "PublishDate": "2023-08-10",
+        "Sent": 9800,
+        "ClickThroughRate": "15%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.3%"
+      },
+      {
+        "Emails": "Fashion & Apparel",
+        "PublishDate": "2023-08-09",
+        "Sent": 9900,
+        "ClickThroughRate": "12%",
+        "DeliveredRate": "98%",
+        "UnsubscribedRate": "0.4%",
+        "SpamReportRate": "0.2%"
+      },
+      {
+        "Emails": "Home & Garden",
+        "PublishDate": "2023-08-08",
+        "Sent": 9800,
+        "ClickThroughRate": "14%",
+        "DeliveredRate": "97%",
+        "UnsubscribedRate": "0.5%",
+        "SpamReportRate": "0.1%"
+      }
+  ]
+  

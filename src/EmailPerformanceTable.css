@@ -1,0 +1,146 @@
+.email-performance-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .email-performance-table th,
+  .email-performance-table td {
+    border-bottom: 1px solid #ccc;
+    padding: 18px;
+    text-align: left;
+
+  }
+  
+  .email-performance-table th {
+    background-color: #ccc; /* Dark grey background for table headings */
+    color: #333; /* White text for table headings */
+    font-weight: bold;
+  }
+  
+  .email-performance-table tbody tr:nth-child(odd) {
+    background-color: #fff; /* White background for odd rows */
+    color: black;
+    
+  }
+  
+  .email-performance-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9; /* Light grey background for even rows */
+    color: #333;
+  }
+  
+  .email-performance-table tbody tr:hover {
+    background-color: #e2e2e2; /* Hover effect color */
+  }
+
+ /* Table header styling */
+/* Table header styling */
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* Search container styling */
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+/* Search input styling */
+.search-input {
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+  flex-grow: 1;
+  outline: none;
+}
+
+/* Search button styling */
+.search-button {
+  padding: 10px 20px;
+  background-color: #007bff; /* Blue color */
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Export button styling */
+.export-button {
+  padding: 10px 20px;
+  background-color: pink;
+  color: violet;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 10px;
+  transition: background-color 0.3s;
+}
+
+/* Manage Columns button styling */
+.manage-columns-button {
+  padding: 10px 20px;
+  background-color: aliceblue;
+  color: violet;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect for buttons */
+.export-button:hover,
+.manage-columns-button:hover,
+.search-button:hover {
+  background-color: violet;
+  color: #fff;
+}
+
+
+/* Pagination container */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Previous and Next button styling */
+.page-button {
+  padding: 10px 15px;
+  margin: 0 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Highlight the active page button */
+.active-page {
+  background-color: violet;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Disable Previous and Next buttons when not applicable */
+.previous-button.disabled,
+.next-button.disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+/* Align Previous to the left and Next to the right */
+.previous-button {
+  margin-right: auto;
+}
+
+.next-button {
+  margin-left: auto;
+} 
+
